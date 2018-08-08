@@ -7,18 +7,12 @@ while True:
     score_computer = 0
 
     def did_player_win(player_move, computer_move):
-
+        
         if OPTIONS[player_move] == "rock" and computer_move != "paper":
             return True
-        else:
-            return False
-            
-        if OPTIONS[player_move] == "paper" and computer_move != "rock":
+        elif OPTIONS[player_move] == "paper" and computer_move != "rock":
             return True
-        else:
-            return False
-            
-        if OPTIONS[player_move] == "scissors" and computer_move != "rock":
+        elif OPTIONS[player_move] == "scissors" and computer_move != "rock":
             return True
         else:
             return False
