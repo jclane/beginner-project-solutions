@@ -42,11 +42,11 @@ When some people receive change after shopping, they put it into a container and
 For example, if you weigh all of your dimes and see that you have 1276.9g of them, you can estimate that you have about 563 dimes (since each one is 2.268g) and you would be able to fill 11 dime wrappers.
 
 Here is the [weight of each coin](https://en.wikipedia.org/wiki/Coins_of_the_United_States_dollar#Coins_in_circulation) and [how many fit inside each type of wrapper](https://en.wikipedia.org/wiki/Coin_wrapper#Amount_in_a_roll_in_the_United_States).
-- Allow the user to input the total weight of each type of coin they have (pennies, nickels, dimes, and quarters).
-- Print out how many of each type of coin wrapper they would need, how many coins they have, and the estimated total value of all of their money.
-- Subgoals:
-  - Round all numbers printed out to the nearest whole number.
-  - Allow the user to select whether they want to submit the weight in either grams or pounds.
+- [ ] Allow the user to input the total weight of each type of coin they have (pennies, nickels, dimes, and quarters).
+- [ ] Print out how many of each type of coin wrapper they would need, how many coins they have, and the estimated total value of all of their money.
+- [ ] Subgoals:
+  - [ ] Round all numbers printed out to the nearest whole number.
+  - [ ] Allow the user to select whether they want to submit the weight in either grams or pounds.
 
 ### Mad Libs Story Maker
 Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, here are the basics:
