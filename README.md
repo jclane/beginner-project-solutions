@@ -22,10 +22,10 @@
     - quit (this must close the window)
     
 ### Pythagorean Triples Checker
-- [ ] If you do not know how basic right triangles work, read this article on wikipedia[1] .
-- [ ] Allows the user to input the sides of any triangle in any order.
-- [ ] Return whether the triangle is a Pythagorean Triple or not.
-- [ ] Loop the program so the user can use it more than once without having to restart the program.
+- [x] If you do not know how basic right triangles work, read this article on wikipedia[1] .
+- [x] Allows the user to input the sides of any triangle in any order.
+- [x] Return whether the triangle is a Pythagorean Triple or not.
+- [x] Loop the program so the user can use it more than once without having to restart the program.
 
 ### Rock Paper Scissors Game
 - [x] Create a rock-paper-scissors game.
