@@ -53,20 +53,20 @@ Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, 
 
 "Mad Libs consist of a book that has a short story on each page with many key words replaced with blanks. Beneath each blank is specified a lexical or other category, such as "noun," "verb," "place," or "part of the body." One player asks the other players, in turn, to contribute some word for the specified type for each blank, but without revealing the context for that word. Finally, the completed story is read aloud. The result is usually comic, surreal and somewhat nonsensical."
 
-- Create a Mad Libs style game, where the program asks the user for certain types of words, and then prints out a story with the words that the user inputted.
-- The story doesn't have to be too long, but it should have some sort of story line.
+- [ ] Create a Mad Libs style game, where the program asks the user for certain types of words, and then prints out a story with the words that the user inputted.
+- [ ] The story doesn't have to be too long, but it should have some sort of story line.
 - Tip: it's easiest to write out a quick story on a piece of paper or a word document, and then go back through and see which words the user should be able to change.
-- Subgoals:
-  - If the user has to put in a name, change the first letter to a capital letter.
-  - Change the word "a" to "an" when the next word in the sentence begins with a vowel.
+- [ ] Subgoals:
+  - [ ] If the user has to put in a name, change the first letter to a capital letter.
+  - [ ] Change the word "a" to "an" when the next word in the sentence begins with a vowel.
 
 ### Change Calculator
 - Imagine that your friend is a cashier, but has a hard time counting back change to customers.
-- Create a program that allows him to input a certain amount of change, and then print how how many quarters, dimes, nickels, and pennies are needed to make up the amount needed.
+- [ ] Create a program that allows him to input a certain amount of change, and then print how how many quarters, dimes, nickels, and pennies are needed to make up the amount needed.
 Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dimes, 0 nickels, and 2 pennies.
-- Subgoals:
-  - So your friend doesn't have to calculate how much change is needed, allow him to type in the amount of money given to him and the price of the item. The program should then tell him the amount of each coin he needs like usual.
-  - To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
+- [ ] Subgoals:
+  - [ ] So your friend doesn't have to calculate how much change is needed, allow him to type in the amount of money given to him and the price of the item. The program should then tell him the amount of each coin he needs like usual.
+  - [ ] To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
 
 ### Mean, Median, and Mode
 In a set of numbers, the mean is the average, the mode is the number that occurs the most, and if you rearrange all the numbers numerically, the median is the number in the middle.
