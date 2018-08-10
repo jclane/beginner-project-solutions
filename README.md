@@ -1,5 +1,36 @@
 # beginner-project-solutions
 
+## Project List
+*Projects are somewhat ordered by increasing difficulty.*
+- [x] [99 Bottles](#99-bottles)
+- [x] [Magic 8 Ball](#magic-8-ball)
+- [x] [Pythagorean Triples Checker](#pythagorean-triples-checker)
+- [x] [Rock Paper Scissors Game](#rock-paper-scissors-game)
+- [ ] [Coin Estimator By Weight](#coin-estimator-by-weight)
+- [ ] [Mad Libs Story Maker](#mad-libs-story-maker)
+- [ ] [Change Calculator](#change-calculator)
+- [x] [Mean, Median, and Mode](#mean-median-mode)
+- [ ] [Higher Lower Guessing Game](#higher-lower-guessing-game)
+- [ ] [Multiplication Table](#multiplication-table)
+- [ ] [Fibonacci Sequence](#fibonacci-sequence)
+- [ ] [Base Jumper](#base-jumper)
+- [ ] [Hangman Game](#hangman-game)
+- [ ] [Menu Calculator](#menu-calculator)
+- [ ] [Dice Rolling Simulator](#dice-rolling-simulator)
+- [ ] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
+- [ ] [What's My Number?](#whats-my-number)
+- [ ] [Factors of a Number](#factors-of-a-number)
+- [ ] [Countdown Clock](#countdown-clock)
+- [ ] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
+- [ ] [A Variation of 21](#a-variation-of-21)
+- [ ] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
+- [ ] [Watch for New TIL Facts](#watch-for-new-til-facts)
+- [ ] [Random Wikipedia Article](#random-wikipedia-article)
+- [ ] [What's the Weather?](#what’s-the-weather)
+- [ ] [Sierpinski Triangle](#sierpinski-triangle)
+- [ ] [Two Numbers](#two-numbers)
+- [ ] [Chickens and Rabbits](#chickens-and-rabbits)
+
 ### 99 Bottles
 - [x] Create a program that prints out every line to the song "99 bottles of beer on the wall."
 - [x] Do not use a list for all of the numbers, and do not manually type them all in. Use a built in function instead.
