@@ -13,10 +13,18 @@ def get_totals(coin_type, weight):
     return [coin_type, str(round(total)), str(round(wrappers_needed)), value]
 
 def show_results():
+    sum_total = 0
     if len(user_total) > 0:
         for el in user_total:
-            print("\nTotal {coin}:".format(coin = COIN_TYPES[el[0]][0] if el[1] == 1 else COIN_TYPES[el[0]][1])) 
-    
+            print("\nTotal {coin}: {coins}".format(coin = COIN_TYPES[el[0]][0] if el[1] == 1 else COIN_TYPES[el[0]][1], coins = el[1]))
+            print("Wrappers Needed: {}".format(el[2]))
+            print("Value: ${:,.2f}".format(el[3]))
+        
+        for el in user_total:
+            sum_total += el[3]
+        
+        print("\nCombined Value: ${:,.2f}".format(sum_total))
+
 while True:
 
     coins_type = print("\nCoins by weight:")
