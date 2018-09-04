@@ -6,7 +6,7 @@
 - [x] [Magic 8 Ball](#magic-8-ball)
 - [x] [Pythagorean Triples Checker](#pythagorean-triples-checker)
 - [x] [Rock Paper Scissors Game](#rock-paper-scissors-game)
-- [ ] [Coin Estimator By Weight](#coin-estimator-by-weight)
+- [x] [Coin Estimator By Weight](#coin-estimator-by-weight)
 - [ ] [Mad Libs Story Maker](#mad-libs-story-maker)
 - [ ] [Change Calculator](#change-calculator)
 - [x] [Mean, Median, and Mode](#mean-median-mode)
@@ -76,9 +76,9 @@ Here is the [weight of each coin](https://en.wikipedia.org/wiki/Coins_of_the_Uni
 - [x] Allow the user to input the total weight of each type of coin they have (pennies, nickels, dimes, and quarters).
 - [x] Print out how many of each type of coin wrapper they would need, how many coins they have, and the estimated total value of all of their 
 money.
-- [ ] Subgoals:
+- [x] Subgoals:
   - [x] Round all numbers printed out to the nearest whole number.
-  - [ ] Allow the user to select whether they want to submit the weight in either grams or pounds.
+  - [x] Allow the user to select whether they want to submit the weight in either grams or pounds.
 
 ### Mad Libs Story Maker
 Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, here are the basics:
