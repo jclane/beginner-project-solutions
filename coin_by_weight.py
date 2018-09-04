@@ -34,11 +34,14 @@ while True:
     print("\t3. Dime")
     print("\t4. Quarter")
     print("\t5. Show me the money!")
+    print("\t6. Quit")
 
-    coins_type = int(input("\nEnter [1-4] >> "))
+    coins_type = int(input("\nEnter [1-6] >> "))
     
-    if coins_type != 5:
+    if coins_type >= 1 and coins_type <= 4:
         coins_weight = float(input("Enter total weight for coins of this type >> "))
         user_total.append(get_totals(int(coins_type), coins_weight))
-    else:
+    elif coins_type == 5:
         show_results()
+    elif coins_type == 6:
+        sys.exit()
