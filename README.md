@@ -10,7 +10,7 @@
 - [ ] [Mad Libs Story Maker](#mad-libs-story-maker)
 - [x] [Change Calculator](#change-calculator)
 - [x] [Mean, Median, and Mode](#mean-median-mode)
-- [ ] [Higher Lower Guessing Game](#higher-lower-guessing-game)
+- [x] [Higher Lower Guessing Game](#higher-lower-guessing-game)
 - [ ] [Multiplication Table](#multiplication-table)
 - [ ] [Fibonacci Sequence](#fibonacci-sequence)
 - [ ] [Base Jumper](#base-jumper)
@@ -109,13 +109,13 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - [x] If there are multiple modes, return all of them.    
   
 ### Higher Lower Guessing Game
-- [ ] Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is.
-- [ ] After every guess, the computer should tell the user if the guess is higher or lower than the answer.
-- [ ] When the user guesses the correct number, print out a congratulatory message.
-- [ ] Subgoals:
-  - [ ] Add an introductory message that explains to the user how to play your game.
-  - [ ] In addition to the congratulatory message at the end of the game, also print out how many guesses were taken before the user arrived at the correct answer.
-  - [ ] At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
+- [x] Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is.
+- [x] After every guess, the computer should tell the user if the guess is higher or lower than the answer.
+- [x] When the user guesses the correct number, print out a congratulatory message.
+- [x] Subgoals:
+  - [x] Add an introductory message that explains to the user how to play your game.
+  - [x] In addition to the congratulatory message at the end of the game, also print out how many guesses were taken before the user arrived at the correct answer.
+  - [x] At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
 
 ### Multiplication Table
 - [ ] Create a program that prints out a multiplication table for the numbers 1 through 9.
