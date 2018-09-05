@@ -107,3 +107,45 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - [x] In the mean function, give the user a way to select how many decimal places they want the answer to be rounded to.
   - [x] If there is an even number of numbers in the list, return both numbers that could be considered the median.
   - [x] If there are multiple modes, return all of them.    
+  
+### Higher Lower Guessing Game
+- [ ] Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is.
+- [ ] After every guess, the computer should tell the user if the guess is higher or lower than the answer.
+- [ ] When the user guesses the correct number, print out a congratulatory message.
+- [ ] Subgoals:
+  - [ ] Add an introductory message that explains to the user how to play your game.
+  - [ ] In addition to the congratulatory message at the end of the game, also print out how many guesses were taken before the user arrived at the correct answer.
+  - [ ] At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
+
+### Multiplication Table
+- [ ] Create a program that prints out a multiplication table for the numbers 1 through 9.
+- [ ] It should include the numbers 1 through 9 on the top and left axises, and it should be relatively easy to find the product of two numbers. Do not simply write out every line manually (ie print('7 14 21 28 35 49 56 63') ).
+- [ ] Subgoals:
+  - [ ] As your products get larger, your columns will start to get crooked from the number of characters on each line. Clean up your table by evenly spacing columns so it is very easy to find the product of two numbers.
+  - [ ] Allow the user to choose a number to change the size of the table (so if they type in 12, the table printed out should be a 12x12 multiplication table).
+
+### Fibonacci Sequence
+If you do not know about the Fibonacci Sequence, read about it [here](https://en.wikipedia.org/wiki/Fibonacci_number).
+- [ ] Define a function that allows the user to find the value of the nth term in the sequence.
+- [ ] To make sure you've written your function correctly, test the first 10 numbers of the sequence.
+- [ ] You can assume either that the first two terms are 0 and 1 or that they are both 1.
+- [ ] There are two methods you can employ to solve the problem. One way is to solve it using a loop and the other way is to use recursion.
+- [ ] Try implementing a solution using both methods.
+
+### Base Jumper
+- [ ] Create a program that converts an integer to the specified base.
+- [ ] The program should ask for 3 inputs. The number to convert. The base the number is in. And the base to convert the number to.
+- [ ] The program should accept a base that is in the range of 2 to 16 inclusive.
+- [ ] Display the result to the user and ask if they want to exit or convert another number.
+- [ ] Subgoals:
+  - [ ] Do not display leading zero's in the result.
+  - [ ] Validate that the number entered is valid for the specified base
+
+### Hangman Game
+- [ ] Create a program that selects a random word and then allows the user to guess it in a game of hangman.
+- [ ] Like the real game, there should be blank spots for each letter in the word, and a part of the body should be added each time the user guesses a letter than is not in the answer.
+- [ ] You may choose how many wrong turns the user can make until the game ends.
+- [ ] Subgoals:
+  - [ ] If the user loses, print out the word at the end of the game.
+  - [ ] Create a "give up" option.
+
