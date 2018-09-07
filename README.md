@@ -14,7 +14,7 @@
 - [x] [Multiplication Table](#multiplication-table)
 - [ ] [Fibonacci Sequence](#fibonacci-sequence)
 - [ ] [Base Jumper](#base-jumper)
-- [ ] [Hangman Game](#hangman-game)
+- [x] [Hangman Game](#hangman-game)
 - [ ] [Menu Calculator](#menu-calculator)
 - [ ] [Dice Rolling Simulator](#dice-rolling-simulator)
 - [ ] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
