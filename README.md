@@ -142,10 +142,10 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
   - [ ] Validate that the number entered is valid for the specified base
 
 ### Hangman Game
-- [ ] Create a program that selects a random word and then allows the user to guess it in a game of hangman.
-- [ ] Like the real game, there should be blank spots for each letter in the word, and a part of the body should be added each time the user guesses a letter than is not in the answer.
-- [ ] You may choose how many wrong turns the user can make until the game ends.
-- [ ] Subgoals:
-  - [ ] If the user loses, print out the word at the end of the game.
-  - [ ] Create a "give up" option.
+- [x] Create a program that selects a random word and then allows the user to guess it in a game of hangman.
+- [x] Like the real game, there should be blank spots for each letter in the word, and a part of the body should be added each time the user guesses a letter than is not in the answer.
+- [x] You may choose how many wrong turns the user can make until the game ends.
+- [x] Subgoals:
+  - [x] If the user loses, print out the word at the end of the game.
+  - [x] Create a "give up" option.
 
