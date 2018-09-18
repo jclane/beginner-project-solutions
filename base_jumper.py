@@ -18,12 +18,18 @@ while True:
     
     while limit(int(base)) != False:
         base = input("Please enter a number between 2 and 16 >> ")
-
+    
+    try:
+        int(num, int(base))
+    except ValueError:
+        print(num + " is not valid for base-" + base + ".")
+        base = input("Please the correct base [2-16] >> ")
+    
     new_base = input("Please enter the base you would like to convert to [2-16] >> ")    
         
     while limit(int(new_base)) != False:
         new_base = input("Please enter a number between 2 and 16 >> ")
-        
+    
     if base != "10":
         result = int(num, int(base))
         print(str(result))
