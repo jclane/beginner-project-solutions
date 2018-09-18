@@ -13,7 +13,7 @@
 - [x] [Higher Lower Guessing Game](#higher-lower-guessing-game)
 - [x] [Multiplication Table](#multiplication-table)
 - [x] [Fibonacci Sequence](#fibonacci-sequence)
-- [x] [Base Jumper](#base-jumper)
+- [ ] [Base Jumper](#base-jumper)
 - [x] [Hangman Game](#hangman-game)
 - [ ] [Menu Calculator](#menu-calculator)
 - [ ] [Dice Rolling Simulator](#dice-rolling-simulator)
