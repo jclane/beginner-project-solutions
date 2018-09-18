@@ -149,3 +149,61 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
   - [x] If the user loses, print out the word at the end of the game.
   - [x] Create a "give up" option.
 
+### Menu Calculator
+Imagine you have started up a small restaurant and are trying to make it easier to take and calculate orders. Since your restaurant only sells 9 different items, you assign each one to a number, as shown below.
+
+- 1. Chicken Strips - $3.50
+- 2. French Fries - $2.50
+- 3. Hamburger - $4.00
+- 4. Hotdog - $3.50
+- 5. Large Drink - $1.75
+- 6. Medium Drink - $1.50
+- 7. Milk Shake - $2.25
+- 8. Salad - $3.75
+- 9. Small Drink - $1.25
+
+- [ ] To quickly take orders, your program should allow the user to type in a string of numbers and then it should calculate the cost of the order. For example, if one large drink, two small drinks, two hamburgers, one hotdog, and a salad are ordered, the user should type in 5993348, and the program should say that it costs $19.50. 
+- [ ] Also, make sure that the program loops so the user can take multiple orders without having to restart the program each time.
+- [ ] Subgoals:
+  - [ ] If you decide to, print out the items and prices every time before the user types in an order.
+  - [ ] Once the user has entered an order, print out how many of each item have been ordered, as well as the total price.
+  - [ ] If an item was not ordered at all, then it should not show up.
+
+### Dice Rolling Simulator
+By using the random module, Python can do things like pseudo-random number generation.
+- [ ] Allow the user to input the amount of sides on a dice and how many times it should be rolled.
+- [ ] Your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed).
+- [ ] Finally, print out how many times each number came up.
+- [ ] Subgoals:
+  - [ ] Adjust your program so that if the user does not type in a number when they need to, the program will keep prompting them to type in a real number until they do so.
+  - [ ] Put the program into a loop so that the user can continue to simulate dice rolls without having to restart the entire program.
+  - [ ] In addition to printing out how many times each side appeared, also print out the percentage it appeared. If you can, round the percentage to 4 digits total OR two decimal places.
+- [ ] Bonus:
+  - You are about to play a board game, but you realize you don't have any dice. Fortunately you have this program.
+  - [ ] Create a program that opens a new window and draws 2 six-sided dice
+  - [ ] Allow the user to quit, or roll again
+  - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
+
+### Count and Fix Green Eggs and Ham
+Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, [here](http://pastebin.com/XMY48CnN) is the story. However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
+
+Because of this problem, your job is to do the following:
+
+- [ ] Copy the story I gave you into a regular text file.
+- [ ] Create a program that reads through the story and makes the letter i uppercase any time it should be. (Make sure to change it when it's used in sam-I-am's name too.)
+- [ ] Have your program make a new file, and have it write out the story correctly.
+- [ ] Print out how many errors were corrected.
+- [ ] When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
+
+### What’s My Number?
+Between 1 and 1000, there is only 1 number that meets the following criteria:
+
+- [ ] The number has two or more digits.
+- [ ] The number is prime.
+- [ ] The number does NOT contain a 1 or 7 in it.
+- [ ] The sum of all of the digits is less than or equal to 10.
+- [ ] The first two digits add up to be odd.
+- [ ] The second to last digit is even and greater than 1.
+- [ ] The last digit is equal to how many digits are in the number.
+
+To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
