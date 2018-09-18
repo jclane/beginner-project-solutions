@@ -15,7 +15,7 @@
 - [x] [Fibonacci Sequence](#fibonacci-sequence)
 - [x] [Base Jumper](#base-jumper)
 - [x] [Hangman Game](#hangman-game)
-- [ ] [Menu Calculator](#menu-calculator)
+- [x] [Menu Calculator](#menu-calculator)
 - [ ] [Dice Rolling Simulator](#dice-rolling-simulator)
 - [ ] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
 - [ ] [What's My Number?](#whats-my-number)
@@ -162,12 +162,12 @@ Imagine you have started up a small restaurant and are trying to make it easier 
 - 8. Salad - $3.75
 - 9. Small Drink - $1.25
 
-- [ ] To quickly take orders, your program should allow the user to type in a string of numbers and then it should calculate the cost of the order. For example, if one large drink, two small drinks, two hamburgers, one hotdog, and a salad are ordered, the user should type in 5993348, and the program should say that it costs $19.50. 
-- [ ] Also, make sure that the program loops so the user can take multiple orders without having to restart the program each time.
-- [ ] Subgoals:
-  - [ ] If you decide to, print out the items and prices every time before the user types in an order.
-  - [ ] Once the user has entered an order, print out how many of each item have been ordered, as well as the total price.
-  - [ ] If an item was not ordered at all, then it should not show up.
+- [x] To quickly take orders, your program should allow the user to type in a string of numbers and then it should calculate the cost of the order. For example, if one large drink, two small drinks, two hamburgers, one hotdog, and a salad are ordered, the user should type in 5993348, and the program should say that it costs $19.50. 
+- [x] Also, make sure that the program loops so the user can take multiple orders without having to restart the program each time.
+- [x] Subgoals:
+  - [x] If you decide to, print out the items and prices every time before the user types in an order.
+  - [x] Once the user has entered an order, print out how many of each item have been ordered, as well as the total price.
+  - [x] If an item was not ordered at all, then it should not show up.
 
 ### Dice Rolling Simulator
 By using the random module, Python can do things like pseudo-random number generation.
