@@ -7,7 +7,7 @@
 - [x] [Pythagorean Triples Checker](#pythagorean-triples-checker)
 - [x] [Rock Paper Scissors Game](#rock-paper-scissors-game)
 - [x] [Coin Estimator By Weight](#coin-estimator-by-weight)
-- [ ] [Mad Libs Story Maker](#mad-libs-story-maker)
+- [x] [Mad Libs Story Maker](#mad-libs-story-maker)
 - [x] [Change Calculator](#change-calculator)
 - [x] [Mean, Median, and Mode](#mean-median-mode)
 - [x] [Higher Lower Guessing Game](#higher-lower-guessing-game)
@@ -89,7 +89,7 @@ Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, 
 - [x] The story doesn't have to be too long, but it should have some sort of story line.
 - Tip: it's easiest to write out a quick story on a piece of paper or a word document, and then go back through and see which words the user should be able to change.
 - [x] Subgoals:
-  - [ ] If the user has to put in a name, change the first letter to a capital letter.
+  - [x] If the user has to put in a name, change the first letter to a capital letter.
   - [x] Change the word "a" to "an" when the next word in the sentence begins with a vowel.
 
 ### Change Calculator
