@@ -16,7 +16,7 @@
 - [x] [Base Jumper](#base-jumper)
 - [x] [Hangman Game](#hangman-game)
 - [x] [Menu Calculator](#menu-calculator)
-- [ ] [Dice Rolling Simulator](#dice-rolling-simulator)
+- [x] [Dice Rolling Simulator](#dice-rolling-simulator)
 - [ ] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
 - [ ] [What's My Number?](#whats-my-number)
 - [ ] [Factors of a Number](#factors-of-a-number)
@@ -171,18 +171,19 @@ Imagine you have started up a small restaurant and are trying to make it easier 
 
 ### Dice Rolling Simulator
 By using the random module, Python can do things like pseudo-random number generation.
-- [ ] Allow the user to input the amount of sides on a dice and how many times it should be rolled.
-- [ ] Your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed).
-- [ ] Finally, print out how many times each number came up.
-- [ ] Subgoals:
-  - [ ] Adjust your program so that if the user does not type in a number when they need to, the program will keep prompting them to type in a real number until they do so.
-  - [ ] Put the program into a loop so that the user can continue to simulate dice rolls without having to restart the entire program.
-  - [ ] In addition to printing out how many times each side appeared, also print out the percentage it appeared. If you can, round the percentage to 4 digits total OR two decimal places.
+- [x] Allow the user to input the amount of sides on a dice and how many times it should be rolled.
+- [x] Your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed).
+- [x] Finally, print out how many times each number came up.
+- [x] Subgoals:
+  - [x] Adjust your program so that if the user does not type in a number when they need to, the program will keep prompting them to type in a real number until they do so.
+  - [x] Put the program into a loop so that the user can continue to simulate dice rolls without having to restart the entire program.
+  - [x] In addition to printing out how many times each side appeared, also print out the percentage it appeared. If you can, round the percentage to 4 digits total OR two decimal places.
 - [ ] Bonus:
   - You are about to play a board game, but you realize you don't have any dice. Fortunately you have this program.
   - [ ] Create a program that opens a new window and draws 2 six-sided dice
   - [ ] Allow the user to quit, or roll again
-  - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
+  - [x] Allow the user to select the number of dice to be drawn on screen(1-4) 
+  - [x] Add up the total of the dice and display it
 
 ### Count and Fix Green Eggs and Ham
 Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, [here](http://pastebin.com/XMY48CnN) is the story. However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
