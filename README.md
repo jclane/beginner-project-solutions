@@ -18,7 +18,7 @@
 - [x] [Menu Calculator](#menu-calculator)
 - [x] [Dice Rolling Simulator](#dice-rolling-simulator)
 - [ ] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
-- [ ] [What's My Number?](#whats-my-number)
+- [x] [What's My Number?](#whats-my-number)
 - [ ] [Factors of a Number](#factors-of-a-number)
 - [ ] [Countdown Clock](#countdown-clock)
 - [ ] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
