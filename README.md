@@ -182,8 +182,8 @@ By using the random module, Python can do things like pseudo-random number gener
   - You are about to play a board game, but you realize you don't have any dice. Fortunately you have this program.
   - [ ] Create a program that opens a new window and draws 2 six-sided dice
   - [ ] Allow the user to quit, or roll again
-  - [x] Allow the user to select the number of dice to be drawn on screen(1-4) 
-  - [x] Add up the total of the dice and display it
+  - [ ] Allow the user to select the number of dice to be drawn on screen(1-4) 
+  - [ ] Add up the total of the dice and display it
 
 ### Count and Fix Green Eggs and Ham
 Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, [here](http://pastebin.com/XMY48CnN) is the story. However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
