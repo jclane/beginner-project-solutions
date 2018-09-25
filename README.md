@@ -199,12 +199,12 @@ Because of this problem, your job is to do the following:
 ### What’s My Number?
 Between 1 and 1000, there is only 1 number that meets the following criteria:
 
-- [ ] The number has two or more digits.
-- [ ] The number is prime.
-- [ ] The number does NOT contain a 1 or 7 in it.
-- [ ] The sum of all of the digits is less than or equal to 10.
-- [ ] The first two digits add up to be odd.
-- [ ] The second to last digit is even and greater than 1.
-- [ ] The last digit is equal to how many digits are in the number.
+- [x] The number has two or more digits.
+- [x] The number is prime.
+- [x] The number does NOT contain a 1 or 7 in it.
+- [x] The sum of all of the digits is less than or equal to 10.
+- [x] The first two digits add up to be odd.
+- [x] The second to last digit is even and greater than 1.
+- [x] The last digit is equal to how many digits are in the number.
 
 To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
