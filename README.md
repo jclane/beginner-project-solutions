@@ -208,3 +208,70 @@ Between 1 and 1000, there is only 1 number that meets the following criteria:
 - [x] The last digit is equal to how many digits are in the number.
 
 To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
+
+### Factors of a Number
+- [ ] Define a function that creates a list of all the numbers that are factors of the user's number.
+- For example, if the function is called factor, `factor(36)` should return `[1, 2, 3, 4, 6, 9, 12, 18, 36]`.
+- [ ] The numbers in your list should be sorted from least to greatest, and 1 and the original number should be included.
+- [ ] Remember to consider negative numbers as well as 0.
+- [ ] Bonus:
+  - [ ] Have the program print the factors of the users number in a comma separated string, without a comma after the last number, and without the brackets of a Python list.
+  - [ ] If the user's number is prime, note it.
+
+### Countdown Clock
+- [ ] Create a program that allows the user to choose a time and date, and then prints out a message at given intervals (such as every second) that tells the user how much longer there is until the selected time.
+- [ ] Subgoals:
+  - [ ] If the selected time has already passed, have the program tell the user to start over.
+  - [ ] If your program asks for the year, month, day, hour, etc. separately, allow the user to be able to type in either the month name or its number.
+  - TIP: Making use of built in modules such as time and datetime can change this project from a nightmare into a much simpler task.
+
+### Turn Based Pokemon Style Game
+- [ ] Write a simple game that allows the user and the computer to take turns selecting moves to use against each other.
+- [ ] Both the computer and the player should start out at the same amount of health (such as 100), and should be able to choose between the three moves:
+  - [ ] The first move should do moderate damage and has a small range (such as 18-25).
+  - [ ] The second move should have a large range of damage and can deal high or low damage (such as 10-35).
+  - [ ] The third move should heal whoever casts it a moderate amount, similar to the first move.
+- [ ] After each move, a message should be printed out that tells the user what just happened, and how much health the user and computer have. Once the user or the computer's health reaches 0, the game should end.
+- [ ] Subgoals:
+  - [ ] When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number.
+  - [ ] When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
+  - [ ] Give each move a name.
+
+### A Variation of 21
+If you do not know how 21 (AKA Blackjack) is played, reading the first couple of paragraphs of [this](https://en.wikipedia.org/wiki/Blackjack) wikipedia article may be beneficial.
+
+In this project, you will make a game similar to Blackjack. In this version:
+- [ ] There is only one player.
+- [ ] There are two types of scores: the game score and the round score.
+- [ ] The game score will begin at 100, and the game will last for five rounds.
+- [ ] At the beginning of the round, the player is given two random cards from a deck and they will be added together to make the player's round score.
+- [ ] From here, the player has two options - draw another card to try to get their round score closer to 21, or they can end the round.
+- [ ] The player can draw as many cards as they want until they end the round or their round score exceeds 21.
+- [ ] At the end of the round, the difference between 21 and the round score is subtracted from the game score, and then the next round begins. After the five rounds, the player is given their total score and the game is over.
+
+---Other Information About The Game---
+- Aces are only worth 1.
+- If a player busts, 21 is subtracted from their total score.
+- All face cards are worth 10.
+- So the point of your program is to allow the user to play the game described above.
+
+- [ ] Subgoals:
+  - [ ] At the beginning of each round, print the round number (1 to 5).
+  - [ ] Since this is a text base game, tell the user what is happening. For example, tell him/her when he/she draws a card, the name of the card, when they bust, etc.
+  - [ ] Create a ranking system at the end of the game and tell the user their rank. For example, if the player finishes with 50-59 points they get an F, 60-69 is a D, 70-79 is a C, 80-89 is a B, and 90-100 is an A.
+  - [ ] At the end of each round, print out the user's total score.
+  - [ ] This may be the hardest part of the project, depending on how you wrote it. Make sure the deck has 4 of each type of card, and then remove cards as they are drawn. At the end of each round, make the deck have all of the cards again.
+
+### Compare Recent reddit Karma
+Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1]. At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
+
+- [ ] Create a program that gets information about two different users, and then sees whose most recent post received the most karma.
+- [ ] The program should then print out which user received more karma, and what the difference was.
+- [ ] This is a pretty open project, so I encourage you to take it further by adding more features if you find it interesting.
+- Remember - Elements in a list are referenced by their index numbers while entries in a dictionary are referenced by their keys.
+- [ ] Subgoals:
+  - [ ] Allow the user to put in the name of two different users when the program first begins.
+  - [ ] If one of the names of the users does not exist (because of a spelling error), print out a message saying so.
+  - [ ] Allow the user to keep comparing other users until the program is closed.
+  - [ ] Display the amount of upvotes and downvotes each user received for their posts.
+  - Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
