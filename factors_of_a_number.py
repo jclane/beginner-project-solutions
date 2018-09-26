@@ -1,5 +1,12 @@
 def factor(num):
+    
     nums = []
+    
+    for i in range(2, num + 1):
+        if i == num:
+            print("{} is a prime number.".format(num))
+        elif (num % i) == 0:
+            break   
     
     if num == 0:
         return nums
@@ -18,9 +25,8 @@ def factor(num):
                 nums.append(i)        
         
     nums.sort()
+    nums = [str(n) for n in nums]
+    return ', '.join(nums)
     
-    return nums
-    
-print(factor(-9))
-print(factor(36))
-print(factor(0))
+num = input("Enter a number >> ")
+print(factor(int(num)))
