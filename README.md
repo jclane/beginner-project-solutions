@@ -19,7 +19,7 @@
 - [x] [Dice Rolling Simulator](#dice-rolling-simulator)
 - [ ] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
 - [x] [What's My Number?](#whats-my-number)
-- [ ] [Factors of a Number](#factors-of-a-number)
+- [x] [Factors of a Number](#factors-of-a-number)
 - [ ] [Countdown Clock](#countdown-clock)
 - [ ] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
 - [ ] [A Variation of 21](#a-variation-of-21)
@@ -210,10 +210,10 @@ Between 1 and 1000, there is only 1 number that meets the following criteria:
 To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
 
 ### Factors of a Number
-- [ ] Define a function that creates a list of all the numbers that are factors of the user's number.
-- For example, if the function is called factor, `factor(36)` should return `[1, 2, 3, 4, 6, 9, 12, 18, 36]`.
-- [ ] The numbers in your list should be sorted from least to greatest, and 1 and the original number should be included.
-- [ ] Remember to consider negative numbers as well as 0.
+- [x] Define a function that creates a list of all the numbers that are factors of the user's number.
+  For example, if the function is called factor, `factor(36)` should return `[1, 2, 3, 4, 6, 9, 12, 18, 36]`.
+- [x] The numbers in your list should be sorted from least to greatest, and 1 and the original number should be included.
+- [x] Remember to consider negative numbers as well as 0.
 - [ ] Bonus:
   - [ ] Have the program print the factors of the users number in a comma separated string, without a comma after the last number, and without the brackets of a Python list.
   - [ ] If the user's number is prime, note it.
