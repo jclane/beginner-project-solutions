@@ -214,9 +214,9 @@ To find out if you have the correct number, click [here](https://i.imgur.com/jbz
   For example, if the function is called factor, `factor(36)` should return `[1, 2, 3, 4, 6, 9, 12, 18, 36]`.
 - [x] The numbers in your list should be sorted from least to greatest, and 1 and the original number should be included.
 - [x] Remember to consider negative numbers as well as 0.
-- [ ] Bonus:
-  - [ ] Have the program print the factors of the users number in a comma separated string, without a comma after the last number, and without the brackets of a Python list.
-  - [ ] If the user's number is prime, note it.
+- [x] Bonus:
+  - [x] Have the program print the factors of the users number in a comma separated string, without a comma after the last number, and without the brackets of a Python list.
+  - [x] If the user's number is prime, note it.
 
 ### Countdown Clock
 - [ ] Create a program that allows the user to choose a time and date, and then prints out a message at given intervals (such as every second) that tells the user how much longer there is until the selected time.
