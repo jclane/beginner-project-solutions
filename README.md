@@ -21,7 +21,7 @@
 - [x] [What's My Number?](#whats-my-number)
 - [x] [Factors of a Number](#factors-of-a-number)
 - [x] [Countdown Clock](#countdown-clock)
-- [ ] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
+- [x] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
 - [ ] [A Variation of 21](#a-variation-of-21)
 - [ ] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
 - [ ] [Watch for New TIL Facts](#watch-for-new-til-facts)
@@ -226,16 +226,16 @@ To find out if you have the correct number, click [here](https://i.imgur.com/jbz
   - TIP: Making use of built in modules such as time and datetime can change this project from a nightmare into a much simpler task.
 
 ### Turn Based Pokemon Style Game
-- [ ] Write a simple game that allows the user and the computer to take turns selecting moves to use against each other.
-- [ ] Both the computer and the player should start out at the same amount of health (such as 100), and should be able to choose between the three moves:
-  - [ ] The first move should do moderate damage and has a small range (such as 18-25).
-  - [ ] The second move should have a large range of damage and can deal high or low damage (such as 10-35).
-  - [ ] The third move should heal whoever casts it a moderate amount, similar to the first move.
-- [ ] After each move, a message should be printed out that tells the user what just happened, and how much health the user and computer have. Once the user or the computer's health reaches 0, the game should end.
-- [ ] Subgoals:
-  - [ ] When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number.
-  - [ ] When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
-  - [ ] Give each move a name.
+- [x] Write a simple game that allows the user and the computer to take turns selecting moves to use against each other.
+- [x] Both the computer and the player should start out at the same amount of health (such as 100), and should be able to choose between the three moves:
+  - [x] The first move should do moderate damage and has a small range (such as 18-25).
+  - [x] The second move should have a large range of damage and can deal high or low damage (such as 10-35).
+  - [x] The third move should heal whoever casts it a moderate amount, similar to the first move.
+- [x] After each move, a message should be printed out that tells the user what just happened, and how much health the user and computer have. Once the user or the computer's health reaches 0, the game should end.
+- [x] Subgoals:
+  - [x] When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number.
+  - [x] When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
+  - [x] Give each move a name.
 
 ### A Variation of 21
 If you do not know how 21 (AKA Blackjack) is played, reading the first couple of paragraphs of [this](https://en.wikipedia.org/wiki/Blackjack) wikipedia article may be beneficial.
