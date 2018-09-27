@@ -20,7 +20,7 @@
 - [ ] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
 - [x] [What's My Number?](#whats-my-number)
 - [x] [Factors of a Number](#factors-of-a-number)
-- [ ] [Countdown Clock](#countdown-clock)
+- [x] [Countdown Clock](#countdown-clock)
 - [ ] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
 - [ ] [A Variation of 21](#a-variation-of-21)
 - [ ] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
