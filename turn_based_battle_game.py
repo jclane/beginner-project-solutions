@@ -90,4 +90,4 @@ while win != True:
         else:
             command = randint(1, 3)
         do_combat(int(command), computer, user)
-        command = input("\nPress any key to continue... ")
+        input("\nPress any key to continue... ")
