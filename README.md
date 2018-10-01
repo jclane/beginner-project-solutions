@@ -22,7 +22,7 @@
 - [x] [Factors of a Number](#factors-of-a-number)
 - [x] [Countdown Clock](#countdown-clock)
 - [x] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
-- [ ] [A Variation of 21](#a-variation-of-21)
+- [x] [A Variation of 21](#a-variation-of-21)
 - [ ] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
 - [ ] [Watch for New TIL Facts](#watch-for-new-til-facts)
 - [ ] [Random Wikipedia Article](#random-wikipedia-article)
@@ -241,13 +241,13 @@ To find out if you have the correct number, click [here](https://i.imgur.com/jbz
 If you do not know how 21 (AKA Blackjack) is played, reading the first couple of paragraphs of [this](https://en.wikipedia.org/wiki/Blackjack) wikipedia article may be beneficial.
 
 In this project, you will make a game similar to Blackjack. In this version:
-- [ ] There is only one player.
-- [ ] There are two types of scores: the game score and the round score.
-- [ ] The game score will begin at 100, and the game will last for five rounds.
-- [ ] At the beginning of the round, the player is given two random cards from a deck and they will be added together to make the player's round score.
-- [ ] From here, the player has two options - draw another card to try to get their round score closer to 21, or they can end the round.
-- [ ] The player can draw as many cards as they want until they end the round or their round score exceeds 21.
-- [ ] At the end of the round, the difference between 21 and the round score is subtracted from the game score, and then the next round begins. After the five rounds, the player is given their total score and the game is over.
+- [x] There is only one player.
+- [x] There are two types of scores: the game score and the round score.
+- [x] The game score will begin at 100, and the game will last for five rounds.
+- [x] At the beginning of the round, the player is given two random cards from a deck and they will be added together to make the player's round score.
+- [x] From here, the player has two options - draw another card to try to get their round score closer to 21, or they can end the round.
+- [x] The player can draw as many cards as they want until they end the round or their round score exceeds 21.
+- [x] At the end of the round, the difference between 21 and the round score is subtracted from the game score, and then the next round begins. After the five rounds, the player is given their total score and the game is over.
 
 ---Other Information About The Game---
 - Aces are only worth 1.
@@ -255,12 +255,12 @@ In this project, you will make a game similar to Blackjack. In this version:
 - All face cards are worth 10.
 - So the point of your program is to allow the user to play the game described above.
 
-- [ ] Subgoals:
-  - [ ] At the beginning of each round, print the round number (1 to 5).
-  - [ ] Since this is a text base game, tell the user what is happening. For example, tell him/her when he/she draws a card, the name of the card, when they bust, etc.
-  - [ ] Create a ranking system at the end of the game and tell the user their rank. For example, if the player finishes with 50-59 points they get an F, 60-69 is a D, 70-79 is a C, 80-89 is a B, and 90-100 is an A.
-  - [ ] At the end of each round, print out the user's total score.
-  - [ ] This may be the hardest part of the project, depending on how you wrote it. Make sure the deck has 4 of each type of card, and then remove cards as they are drawn. At the end of each round, make the deck have all of the cards again.
+- [x] Subgoals:
+  - [x] At the beginning of each round, print the round number (1 to 5).
+  - [x] Since this is a text base game, tell the user what is happening. For example, tell him/her when he/she draws a card, the name of the card, when they bust, etc.
+  - [x] Create a ranking system at the end of the game and tell the user their rank. For example, if the player finishes with 50-59 points they get an F, 60-69 is a D, 70-79 is a C, 80-89 is a B, and 90-100 is an A.
+  - [x] At the end of each round, print out the user's total score.
+  - [x] This may be the hardest part of the project, depending on how you wrote it. Make sure the deck has 4 of each type of card, and then remove cards as they are drawn. At the end of each round, make the deck have all of the cards again.
 
 ### Compare Recent reddit Karma
 Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1]. At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
