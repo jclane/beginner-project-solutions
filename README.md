@@ -23,7 +23,7 @@
 - [x] [Countdown Clock](#countdown-clock)
 - [x] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
 - [x] [A Variation of 21](#a-variation-of-21)
-- [ ] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
+- [x] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
 - [ ] [Watch for New TIL Facts](#watch-for-new-til-facts)
 - [ ] [Random Wikipedia Article](#random-wikipedia-article)
 - [ ] [What's the Weather?](#what’s-the-weather)
@@ -265,13 +265,13 @@ In this project, you will make a game similar to Blackjack. In this version:
 ### Compare Recent reddit Karma
 Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1]. At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
 
-- [ ] Create a program that gets information about two different users, and then sees whose most recent post received the most karma.
-- [ ] The program should then print out which user received more karma, and what the difference was.
-- [ ] This is a pretty open project, so I encourage you to take it further by adding more features if you find it interesting.
+- [x] Create a program that gets information about two different users, and then sees whose most recent post received the most karma.
+- [x] The program should then print out which user received more karma, and what the difference was.
+- This is a pretty open project, so I encourage you to take it further by adding more features if you find it interesting.
 - Remember - Elements in a list are referenced by their index numbers while entries in a dictionary are referenced by their keys.
-- [ ] Subgoals:
-  - [ ] Allow the user to put in the name of two different users when the program first begins.
-  - [ ] If one of the names of the users does not exist (because of a spelling error), print out a message saying so.
-  - [ ] Allow the user to keep comparing other users until the program is closed.
-  - [ ] Display the amount of upvotes and downvotes each user received for their posts.
+- [x] Subgoals:
+  - [x] Allow the user to put in the name of two different users when the program first begins.
+  - [x] If one of the names of the users does not exist (because of a spelling error), print out a message saying so.
+  - [x] Allow the user to keep comparing other users until the program is closed.
+  - [x] Display the amount of upvotes and downvotes each user received for their posts.
   - Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
