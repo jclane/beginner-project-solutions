@@ -274,4 +274,77 @@ Since we're all redditors here, let's make something dealing with reddit. If you
   - [x] If one of the names of the users does not exist (because of a spelling error), print out a message saying so.
   - [x] Allow the user to keep comparing other users until the program is closed.
   - [x] Display the amount of upvotes and downvotes each user received for their posts.
-  - Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
+- Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
+
+### Watch for new TIL facts
+If you finished the previous [project](https://github.com/alfredmuffin/Beginner-Projects#compare-recent-reddit-karma) which compared the karma of two new comments, hopefully you learned a thing or two about receiving data from Reddit's API. Now you're going to take this a step further, and even have the opportunity to make a basic twitter bot.
+- Create a program that receives data from the [/r/todayilearned](https://reddit.com/r/todayilearned) subreddit, and looks for new facts that have been posted.
+- Each time the program comes across a new fact, the fact should be printed into the command line. However, phrases like "TIL ", "TIL that", etc should be removed so the only thing that is printed is the fact.
+
+[New TIL API data here](https://www.reddit.com/r/todayilearned/new/.json)
+
+There are a couple things to note about this since you'll more than likely be using a loop to check for new posts. According to Reddit's [API Access Rules Page](https://github.com/reddit/reddit/wiki/API), the API pages are only updated once every thirty seconds, so you'll have to have your code pause for at least thirty seconds before it tries to find more posts. Secondly, if for some reason you decide to try to get data sooner than every thirty seconds, make sure to not send more than thirty requests per minute. That is the maximum you are allowed to do.
+
+There is actually a lot you can do once your program starts receiving facts. Instead of simply printing the facts, here are some ideas for what you can do with them. If you currently do not feel like you can accomplish these ideas, feel free to come back later when you have more experience.
+- [ ] Print the link to the source of the fact too.
+- [ ] Try to further clean up the fact by adding punctuation to the end if it is missing, capitalize the first word, etc.
+- [ ] Write the facts to a separate text file so you end up with a giant compilation of random facts.
+- [ ] Create a bot that posts the facts to twitter. This may sound hard, but it's actually pretty simple by using the [Python Twitter Tools](https://pypi.python.org/pypi/twitter) module and following the guide posted [here](https://wilsonericn.wordpress.com/2011/08/22/tweeting-in-python-the-easy-way/).
+- [ ] Remember, the maximum amount of characters you can use in a tweet is only 140, so you'll have to filter out facts that are longer than that.
+- [ ] By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
+
+### Random Wikipedia Article
+If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so [Click here](https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=10&format=json).
+However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter [Erasto Cortés Juárez](https://en.wikipedia.org/wiki/Erasto_Cort%C3%A9s_Ju%C3%A1rez) has é and á in it. If you look at this specific article's [API](https://en.wikipedia.org/w/api.php?action=query&prop=info&pageids=39608394&inprop=url&format=json), you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of [this page](https://docs.python.org/2/howto/unicode.html) in the documentation). To make your program work, you're going to have to handle this problem somehow.
+- [ ] Create a program that pulls titles from the official Wikipedia API and then asks the user one by one if he or she would like to read about that article.
+- Example:
+  - [ ] If the first title is Reddit, then the program should ask something along the lines of "Would you like to read about Reddit?" If the user says yes, then the program should open up the article for the user to read.
+  - HINT: Click [here](https://en.wikipedia.org/wiki?curid=39608394) to see how the article's ID can be used to access the actual article.
+- [ ] Subgoals:
+  - [ ] As mentioned before, do something about the possibility of unicode appearing in the title.
+  - [ ] Whether you want your program to simply filter out these articles or you want to actually turn the codes into readable characters, that's up to you.
+  - [ ] Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
+  - [ ] Allow the user to simply press ENTER to be asked about a new article.
+
+### What’s the Weather?
+If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
+- [ ] Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live.
+- [ ] Subgoals:
+  - [ ] Print out data for the next 5-7 days so you have a 5 day/week long forecast.
+  - [ ] Print the data to another file that you can open up and view at, instead of viewing the information in the command line.
+  - [ ] If you know html, write a file that you can print information to so that your project is more interesting. Here is an example of the results from what I threw together.[3]
+- Tips:
+  - APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
+  - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
+
+### Sierpinski Triangle
+
+The [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) (also with the original orthography Sierpinski), also called the Sierpinski gasket or the Sierpinski Sieve, is a fractal and attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets, i.e., it is a mathematically generated pattern that can be reproducible at any magnification or reduction. It is named after the Polish mathematician _Waclaw Sierpinski_, but appeared as a decorative pattern many centuries prior to the work of Sierpinski.
+
+Task in hand :
+
+-  [ ] create and visualize a fractal generator that forms a standard ***sierpinski triangle***.
+- [ ] perform this using recursive calls.
+
+- [ ] Subgoals :
+  - [ ] Also accept ***depth*** for which the fractal should be generated.
+
+### Two Numbers
+
+Given an array of integers, return indices of the ***two numbers*** such that they add up to a specific target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Example:
+```
+Given nums = [2, 7, 11, 15], target = 9,
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+```
+### Chickens and Rabbits
+
+Write a program to solve a classic ancient Chinese puzzle:
+We count 35 heads and 94 legs among the chickens and rabbits in a farm.
+How many rabbits and how many chickens do we have?
+
+Hint:
+Use for loop to iterate all possible solutions.
