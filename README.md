@@ -24,7 +24,7 @@
 - [x] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
 - [x] [A Variation of 21](#a-variation-of-21)
 - [x] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
-- [ ] [Watch for New TIL Facts](#watch-for-new-til-facts)
+- [x] [Watch for New TIL Facts](#watch-for-new-til-facts)
 - [ ] [Random Wikipedia Article](#random-wikipedia-article)
 - [ ] [What's the Weather?](#what’s-the-weather)
 - [ ] [Sierpinski Triangle](#sierpinski-triangle)
@@ -289,9 +289,9 @@ There is actually a lot you can do once your program starts receiving facts. Ins
 - [x] Print the link to the source of the fact too.
 - [x] Try to further clean up the fact by adding punctuation to the end if it is missing, capitalize the first word, etc.
 - [x] Write the facts to a separate text file so you end up with a giant compilation of random facts.
-- [ ] Create a bot that posts the facts to twitter. This may sound hard, but it's actually pretty simple by using the [Python Twitter Tools](https://pypi.python.org/pypi/twitter) module and following the guide posted [here](https://wilsonericn.wordpress.com/2011/08/22/tweeting-in-python-the-easy-way/).
-- [ ] Remember, the maximum amount of characters you can use in a tweet is only 140, so you'll have to filter out facts that are longer than that.
-- [ ] By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
+- [x] Create a bot that posts the facts to twitter. This may sound hard, but it's actually pretty simple by using the [Python Twitter Tools](https://pypi.python.org/pypi/twitter) module and following the guide posted [here](https://wilsonericn.wordpress.com/2011/08/22/tweeting-in-python-the-easy-way/).
+- [x] Remember, the maximum amount of characters you can use in a tweet is only 140, so you'll have to filter out facts that are longer than that.
+- By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
 
 ### Random Wikipedia Article
 If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so [Click here](https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=10&format=json).

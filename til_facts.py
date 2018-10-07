@@ -1,6 +1,7 @@
 import requests
 import csv
 import os.path
+from twitter import *
 from time import sleep
 
 
@@ -73,11 +74,27 @@ def get_fact():
         print("Error fetching fact.")
 
 
+def tweet_fact(fact):
+
+    with open("keys_file.txt", "r") as keys_file:
+        keys = keys_file.readlines()
+        TOKEN = keys[0].strip("\n")
+        TOKEN_KEY = keys[1].strip("\n")
+        CON_SEC = keys[2].strip("\n")
+        CON_SEC_KEY = keys[3].strip("\n")
+
+    t = Twitter(auth=OAuth(TOKEN, TOKEN_KEY, CON_SEC, CON_SEC_KEY))
+
+    t.statuses.update(status=fact)
+
+
 while True:
     fact = Fact(get_fact())
         
     if not check_for_duplicates(fact.title):
         fact.show()
+        if len(fact.title) <= 140:
+            tweet_fact(fact.title)
         save_fact([fact.title, fact.url])
         
     sleep(60)
