@@ -25,7 +25,7 @@
 - [x] [A Variation of 21](#a-variation-of-21)
 - [x] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
 - [x] [Watch for New TIL Facts](#watch-for-new-til-facts)
-- [ ] [Random Wikipedia Article](#random-wikipedia-article)
+- [x] [Random Wikipedia Article](#random-wikipedia-article)
 - [ ] [What's the Weather?](#what’s-the-weather)
 - [ ] [Sierpinski Triangle](#sierpinski-triangle)
 - [ ] [Two Numbers](#two-numbers)
