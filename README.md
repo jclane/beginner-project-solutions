@@ -27,7 +27,7 @@
 - [x] [Watch for New TIL Facts](#watch-for-new-til-facts)
 - [x] [Random Wikipedia Article](#random-wikipedia-article)
 - [ ] [What's the Weather?](#what’s-the-weather)
-- [ ] [Sierpinski Triangle](#sierpinski-triangle)
+- [x] [Sierpinski Triangle](#sierpinski-triangle)
 - [ ] [Two Numbers](#two-numbers)
 - [ ] [Chickens and Rabbits](#chickens-and-rabbits)
 
@@ -323,11 +323,10 @@ The [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) (al
 
 Task in hand :
 
--  [ ] create and visualize a fractal generator that forms a standard ***sierpinski triangle***.
-- [ ] perform this using recursive calls.
-
-- [ ] Subgoals :
-  - [ ] Also accept ***depth*** for which the fractal should be generated.
+- [x] create and visualize a fractal generator that forms a standard ***sierpinski triangle***.
+- [x] perform this using recursive calls.
+- [x] Subgoals :
+  - [x] Also accept ***depth*** for which the fractal should be generated.
 
 ### Two Numbers
 
