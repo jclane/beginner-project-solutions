@@ -17,7 +17,7 @@
 - [x] [Hangman Game](#hangman-game)
 - [x] [Menu Calculator](#menu-calculator)
 - [x] [Dice Rolling Simulator](#dice-rolling-simulator)
-- [ ] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
+- [x] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
 - [x] [What's My Number?](#whats-my-number)
 - [x] [Factors of a Number](#factors-of-a-number)
 - [x] [Countdown Clock](#countdown-clock)
@@ -190,11 +190,11 @@ Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of y
 
 Because of this problem, your job is to do the following:
 
-- [ ] Copy the story I gave you into a regular text file.
-- [ ] Create a program that reads through the story and makes the letter i uppercase any time it should be. (Make sure to change it when it's used in sam-I-am's name too.)
-- [ ] Have your program make a new file, and have it write out the story correctly.
-- [ ] Print out how many errors were corrected.
-- [ ] When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
+- [x] Copy the story I gave you into a regular text file.
+- [x] Create a program that reads through the story and makes the letter i uppercase any time it should be. (Make sure to change it when it's used in sam-I-am's name too.)
+- [x] Have your program make a new file, and have it write out the story correctly.
+- [x] Print out how many errors were corrected.
+- [x] When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
 
 ### What’s My Number?
 Between 1 and 1000, there is only 1 number that meets the following criteria:
