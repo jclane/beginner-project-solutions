@@ -28,7 +28,7 @@
 - [x] [Random Wikipedia Article](#random-wikipedia-article)
 - [ ] [What's the Weather?](#what’s-the-weather)
 - [x] [Sierpinski Triangle](#sierpinski-triangle)
-- [ ] [Two Numbers](#two-numbers)
+- [x] [Two Numbers](#two-numbers)
 - [ ] [Chickens and Rabbits](#chickens-and-rabbits)
 
 ### 99 Bottles
