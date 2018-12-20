@@ -29,7 +29,7 @@
 - [ ] [What's the Weather?](#what’s-the-weather)
 - [x] [Sierpinski Triangle](#sierpinski-triangle)
 - [x] [Two Numbers](#two-numbers)
-- [ ] [Chickens and Rabbits](#chickens-and-rabbits)
+- [x] [Chickens and Rabbits](#chickens-and-rabbits)
 
 ### 99 Bottles
 - [x] Create a program that prints out every line to the song "99 bottles of beer on the wall."
