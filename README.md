@@ -30,6 +30,9 @@
 - [x] [Sierpinski Triangle](#sierpinski-triangle)
 - [x] [Two Numbers](#two-numbers)
 - [x] [Chickens and Rabbits](#chickens-and-rabbits)
+- [ ] [FLAMES Game](#FLAMES-Game)
+- [ ] [Pomodoro Timer](#Pomodoro-Timer)
+- [ ] [Scarne's Dice](#Scarne's-Dice)
 
 ### 99 Bottles
 - [x] Create a program that prints out every line to the song "99 bottles of beer on the wall."
@@ -348,3 +351,28 @@ How many rabbits and how many chickens do we have?
 
 Hint:
 Use for loop to iterate all possible solutions.
+
+
+### FLAMES Game
+
+Write a program which implements Flames.
+
+Flames is an interesting game that people play to learn about their relationships. Flames is named after the acronym: Friends, Lovers, Affectionate, Marriage, Enemies, and Siblings. It is a popular game among young people, especially those beginning to explore the world of crushes. Learn more about Flames [here](https://medium.com/@ritwika285/how-to-play-flames-game-890edc7bf3d) or [here](https://www.wikihow.com/Play-%22Flame%22)
+
+### Pomodoro Timer
+Create a Pomodoro Timer.
+
+Pomodoro Timer is a time management method. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. These intervals are named pomodoros, the plural in English of the Italian word pomodoro (tomato), after the tomato-shaped kitchen timer that Cirillo used as a university student.
+There are six steps in the original technique:
+
+Decide on the task to be done.
+Set the pomodoro timer (traditionally to 25 minutes).
+Work on the task.
+End work when the timer rings and put a checkmark on a piece of paper.
+If you have fewer than four checkmarks, take a short break (3–5 minutes), then go to step 2.
+After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.
+to know more about Pomodoro Timer [click here](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+### Scarne's Dice
+
+Turn-based dice game where players score points by rolling a die and then: if they roll a 1, score no points and lose their turn, if they roll a 2 to 6: add the rolled value to their points choose to either reroll or keep their score and end their turn. The winner is the first player that reaches (or exceeds) 100 points.
