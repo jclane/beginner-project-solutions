@@ -26,7 +26,7 @@
 - [x] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
 - [x] [Watch for New TIL Facts](#watch-for-new-til-facts)
 - [x] [Random Wikipedia Article](#random-wikipedia-article)
-- [ ] [What's the Weather?](#what’s-the-weather)
+- [x] [What's the Weather?](#what’s-the-weather)
 - [x] [Sierpinski Triangle](#sierpinski-triangle)
 - [x] [Two Numbers](#two-numbers)
 - [x] [Chickens and Rabbits](#chickens-and-rabbits)
@@ -309,12 +309,12 @@ However, there is a dilemma. Since Wikipedia has articles about topics from all 
 ### What’s the Weather?
 If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
 - [x] Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live.
-- [ ] Subgoals:
-  - [ ] Print out data for the next 5-7 days so you have a 5 day/week long forecast.
-  - [ ] Print the data to another file that you can open up and view at, instead of viewing the information in the command line.
-  - [x] If you know html, write a file that you can print information to so that your project is more interesting. Here is an example of the results from what I threw together.[3]
+- [x] Subgoals:
+  - [x] Print out data for the next 5-7 days so you have a 5 day/week long forecast. (Note: I don't feel like finding an API that doesn't require a key in order to do this.)
+  - [x] Print the data to another file that you can open up and view at, instead of viewing the information in the command line.
+  - [x] If you know html, write a file that you can print information to so that your project is more interesting. [Here](https://codepen.io/jclane/pen/YWYopE) is an example of the results from what I threw together.
 - Tips:
-  - APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
+  - APIs that are in JSON are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
 
 ### Sierpinski Triangle
