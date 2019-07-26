@@ -57,18 +57,17 @@ class Coin {
 class CoinByWeight {
 
   public static void main(String[] args) {
-    List<Coin> userTotal = new ArrayList<Coin>();
-    String input = askForInput();
-    if (validateInput(input)) {
-      System.out.println("VALID INPUT");
-      userTotal.add(createCoin(input));
-    } else {
-      System.out.println("NOT VALID");
-    }
+    List<Coin> userTotal = new ArrayList<>();
+    String coin = askForInput();
+    userTotal.add(createCoin(coin));
     System.out.println(userTotal);
   }
 
-  public static boolean validateInput(String inputStr) {
+  public static Coin createCoin(String coinType) {
+    return new Coin(coinType);
+  }
+
+  public static boolean validateCoinType(String inputStr) {
     for (String str: new String[] {"penny", "nickle", "dime", "quarter"}) {
       if (str.trim().contains(inputStr)) {
         return true;
@@ -77,15 +76,13 @@ class CoinByWeight {
     return false;
   }
 
-  public static Coin createCoin(String coinType) {
-    return new Coin(coinType);
-  }
-
   public static String askForInput() {
-    Scanner scanner = new Scanner(System.in);
-
-    System.out.println("Enter coin type:");
-    String input = scanner.nextLine();
+    Scanner s = new Scanner(System.in);
+    String input = "null";
+    while (!validateCoinType(input)) {
+      System.out.println("Enter coin type:");
+      input = s.nextLine();
+    }
     return input;
   }
 }
