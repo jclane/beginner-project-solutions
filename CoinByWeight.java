@@ -68,8 +68,13 @@ class CoinByWeight {
     System.out.println(userTotal);
   }
 
-  public static boolean validateInput(String str) {
-    return true;
+  public static boolean validateInput(String inputStr) {
+    for (String str: new String[] {"penny", "nickle", "dime", "quarter"}) {
+      if (str.trim().contains(inputStr)) {
+        return true;
+      }
+    }
+    return false;
   }
 
   public static Coin createCoin(String coinType) {
