@@ -33,6 +33,10 @@
 - [ ] ~~FLAMES Game~~
 - [ ] ~~Pomodoro Timer~~
 - [x] [Scarne's Dice](#scarnes-dice)
+- [ ] [GoogleCase](#GoogleCase)
+- [ ] [Chess](#ChessGame)
+- [ ] [Movie of the day](#movie-of-the-day)
+- [ ] [Website Scraper / Analyzer](#website-scraper--analyzer)
 
 ### 99 Bottles
 - [x] Create a program that prints out every line to the song "99 bottles of beer on the wall."
