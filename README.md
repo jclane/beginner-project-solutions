@@ -9,7 +9,7 @@
 - [x] [Coin Estimator By Weight](#coin-estimator-by-weight)
 - [x] [Mad Libs Story Maker](#mad-libs-story-maker)
 - [x] [Change Calculator](#change-calculator)
-- [x] [Mean, Median, and Mode](#mean-median-mode)
+- [x] [Mean, Median, and Mode](#mean-median-and-mode)
 - [x] [Higher Lower Guessing Game](#higher-lower-guessing-game)
 - [x] [Multiplication Table](#multiplication-table)
 - [x] [Fibonacci Sequence](#fibonacci-sequence)
@@ -26,13 +26,13 @@
 - [x] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
 - [x] [Watch for New TIL Facts](#watch-for-new-til-facts)
 - [x] [Random Wikipedia Article](#random-wikipedia-article)
-- [x] [What's the Weather?](#what’s-the-weather)
+- [x] [What's the Weather?](#whats-the-weather)
 - [x] [Sierpinski Triangle](#sierpinski-triangle)
 - [x] [Two Numbers](#two-numbers)
 - [x] [Chickens and Rabbits](#chickens-and-rabbits)
-- [ ] [FLAMES Game](#FLAMES-Game)
-- [ ] [Pomodoro Timer](#Pomodoro-Timer)
-- [ ] [Scarne's Dice](#Scarne's-Dice)
+- [ ] ~~FLAMES Game~~
+- [ ] ~~Pomodoro Timer~~
+- [x] [Scarne's Dice](#scarnes-dice)
 
 ### 99 Bottles
 - [x] Create a program that prints out every line to the song "99 bottles of beer on the wall."
@@ -355,24 +355,39 @@ Use for loop to iterate all possible solutions.
 
 ### FLAMES Game
 
-Write a program which implements Flames.
+This just sounds silly.
 
-Flames is an interesting game that people play to learn about their relationships. Flames is named after the acronym: Friends, Lovers, Affectionate, Marriage, Enemies, and Siblings. It is a popular game among young people, especially those beginning to explore the world of crushes. Learn more about Flames [here](https://medium.com/@ritwika285/how-to-play-flames-game-890edc7bf3d) or [here](https://www.wikihow.com/Play-%22Flame%22)
+~~Write a program which implements Flames.~~
+
+~~Flames is an interesting game that people play to learn about their relationships. Flames is named after the acronym: Friends, Lovers, Affectionate, Marriage, Enemies, and Siblings. It is a popular game among young people, especially those beginning to explore the world of crushes.~~
+Learn more about Flames [here](https://medium.com/@ritwika285/how-to-play-flames-game-890edc7bf3d) or [here](https://www.wikihow.com/Play-%22Flame%22)
 
 ### Pomodoro Timer
-Create a Pomodoro Timer.
 
-Pomodoro Timer is a time management method. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. These intervals are named pomodoros, the plural in English of the Italian word pomodoro (tomato), after the tomato-shaped kitchen timer that Cirillo used as a university student.
-There are six steps in the original technique:
+Every coding challenge site I've seen has at least one of these.  I've done a number of them at this point and they're boring.
 
-Decide on the task to be done.
-Set the pomodoro timer (traditionally to 25 minutes).
-Work on the task.
-End work when the timer rings and put a checkmark on a piece of paper.
-If you have fewer than four checkmarks, take a short break (3–5 minutes), then go to step 2.
-After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.
-to know more about Pomodoro Timer [click here](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+~~Create a Pomodoro Timer.~~
+
+~~Pomodoro Timer is a time management method. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. These intervals are named pomodoros, the plural in English of the Italian word pomodoro (tomato), after the tomato-shaped kitchen timer that Cirillo used as a university student.~~
+~~There are six steps in the original technique:~~
+
+~~Decide on the task to be done.~~
+~~Set the pomodoro timer (traditionally to 25 minutes).~~
+~~Work on the task.~~
+~~End work when the timer rings and put a checkmark on a piece of paper.~~
+~~If you have fewer than four checkmarks, take a short break (3–5 minutes), then go to step 2.~~
+~~After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.~~
+To know more about Pomodoro Timer [click here](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
 ### Scarne's Dice
 
 Turn-based dice game where players score points by rolling a die and then: if they roll a 1, score no points and lose their turn, if they roll a 2 to 6: add the rolled value to their points choose to either reroll or keep their score and end their turn. The winner is the first player that reaches (or exceeds) 100 points.
+
+Task:
+
+- [x] Each player's score is tracked.
+- [x] Players can roll a die.
+  - [x] On a 2-6 the result is added to their total score and they are given the option to continue rolling.
+  - [x] The player can elect to stop rolling and keep their score, which ends their turn.
+  - [x] On a 1 they score no points and their turn ends.
+- [x] First player to score 100 points wins.
