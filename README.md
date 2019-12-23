@@ -32,7 +32,7 @@
 - [x] [Chickens and Rabbits](#chickens-and-rabbits)
 - [ ] [FLAMES Game](#FLAMES-Game)
 - [ ] [Pomodoro Timer](#Pomodoro-Timer)
-- [ ] [Scarne's Dice](#Scarne's-Dice)
+- [x] [Scarne's Dice](#Scarne's-Dice)
 
 ### 99 Bottles
 - [x] Create a program that prints out every line to the song "99 bottles of beer on the wall."
