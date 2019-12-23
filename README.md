@@ -391,3 +391,41 @@ Task:
   - [x] The player can elect to stop rolling and keep their score, which ends their turn.
   - [x] On a 1 they score no points and their turn ends.
 - [x] First player to score 100 points wins.
+
+### GoogleCase
+
+- Its a game which allows you to play with english sentences.
+- User will enter a sentence in any format.(uppercase or lowercase or a mix of both)
+- Program must convert the given sentence in google case .What is a google case style of sentence?[know_about_it_here:]( It is a style of         writing where we replace all lower case letters into upper case letters leaving the initial of all the words).
+- Subgoals:
+    - Program must then convert the given sentence in camel case.To know more about camel case 
+    [click_here](https://en.wikipedia.org/wiki/Camel_case)
+    - Sentence can be entered with any number of spaces.
+
+Hint: If you are dealing with languages such as ***c*** then consider the sentences as the char array.
+
+### ChessGame
+
+- Chess is a game as old as time, and has always followed the same rules (deviations aside). The logic of chess, however, matches up very nicely with the same logic you would use to program a game. Additionally, Chess makes for a fantastic starter piece—pun intended—towards a programming career.
+- You’ll start by mapping out both your board and your pieces. Then, you’ll go on to giving specific movements for your pieces. From brainstorm to final product, you’ll be forced to think of chess as less of a physical game and more of data-driven mental gymnastic! Click on the video above to begin learning how to maneuver your way through creating your very own chess program (and how to modify it to create your own version of chess).
+
+### Movie of the day
+
+- The app makes use of [OMDb REST API](https://www.omdbapi.com/) in order to fetch a random movie
+- Every time the user opens the app, the API gets queried in order to fetch the random movie
+- The app can also store (in the browser cache or the phone local storage) which movies have already been
+shown to the user so that it can exclude them from the recommendation sub-system.
+
+### Website Scraper / Analyzer 
+
+- Make an app that scrapes the content of a website (it's produced HTML code)
+- The app can then check for the absence of important HTML tags for SEO,
+missing alt tags on images, and whether the page has SEO meta tags
+- The app can be made in various languages that support web scraping (or have a library to
+do so), like Python and Java.
+- Then the app can give/subtract points and create an overall score.
+- You will learn: 
+    - How a web scraper works
+    - How to traverse the HTML DOM and select elements
+    - What are the important SEO tags and techniques in a web page
+    
