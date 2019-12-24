@@ -35,7 +35,7 @@
 - [x] [Scarne's Dice](#scarnes-dice)
 - [x] [GoogleCase](#GoogleCase)
 - [ ] [Chess](#ChessGame)
-- [x] [Movie of the day](#movie-of-the-day)
+- [ ] ~~Movie of the day~~
 - [ ] [Website Scraper / Analyzer](#website-scraper--analyzer)
 
 ### 99 Bottles
