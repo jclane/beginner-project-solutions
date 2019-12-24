@@ -35,7 +35,7 @@
 - [x] [Scarne's Dice](#scarnes-dice)
 - [x] [GoogleCase](#GoogleCase)
 - [ ] [Chess](#ChessGame)
-- [ ] [Movie of the day](#movie-of-the-day)
+- [x] [Movie of the day](#movie-of-the-day)
 - [ ] [Website Scraper / Analyzer](#website-scraper--analyzer)
 
 ### 99 Bottles
@@ -420,10 +420,17 @@ Hint: If you are dealing with languages such as ***c*** then consider the senten
 
 ### Movie of the day
 
-- The app makes use of [OMDb REST API](https://www.omdbapi.com/) in order to fetch a random movie
-- Every time the user opens the app, the API gets queried in order to fetch the random movie
-- The app can also store (in the browser cache or the phone local storage) which movies have already been
-shown to the user so that it can exclude them from the recommendation sub-system.
+Note:
+So I started working on this, but soon found out that the OMDb API doesn't offer anything that will return a random movie.  
+I found a feature request on the API github repo requesting such a feature.  One commentor noted they were using tMDB API to 
+get a random movie title, which they sent to OMDd.  It wasn't until I finished the function to get that random movie title that I 
+realized...That was the whole goal of this project.  Get a random movie title.  
+       
+I could continue with this and check the other boxes down there, but I'm bored with this.
+
+- [ ] The app makes use of [OMDb REST API](https://www.omdbapi.com/) in order to fetch a random movie
+- [x] Every time the user opens the app, the API gets queried in order to fetch the random movie
+- [ ] The app can also store (in the browser cache or the phone local storage) which movies have already been shown to the user so that it can exclude them from the recommendation sub-system.
 
 ### Website Scraper / Analyzer 
 
