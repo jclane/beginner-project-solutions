@@ -33,7 +33,7 @@
 - [ ] ~~FLAMES Game~~
 - [ ] ~~Pomodoro Timer~~
 - [x] [Scarne's Dice](#scarnes-dice)
-- [ ] [GoogleCase](#GoogleCase)
+- [x] [GoogleCase](#GoogleCase)
 - [ ] [Chess](#ChessGame)
 - [ ] [Movie of the day](#movie-of-the-day)
 - [ ] [Website Scraper / Analyzer](#website-scraper--analyzer)
@@ -405,11 +405,11 @@ Given the setence "Coding is fun."
 Return "cODING iS fUN."
 ```
 
-- [ ] User will enter a sentence in any format.(uppercase or lowercase or a mix of both)
-- [ ] Program must return the given sentence in google case.
-- [ ] Subgoals:
-    - [ ] Program must then convert the given sentence in camel case.To know more about [camel case](https://en.wikipedia.org/wiki/Camel_case).
-    - [ ] Sentence can be entered with any number of spaces.
+- [x] User will enter a sentence in any format (uppercase or lowercase or a mix of both).
+- [x] Program must return the given sentence in google case.
+- [x] Subgoals:
+    - [x] Program must then convert the given sentence in camel case.To know more about [camel case](https://en.wikipedia.org/wiki/Camel_case).
+    - [x] Sentence can be entered with any number of spaces.
 
 Hint: If you are dealing with languages such as ***c*** then consider the sentences as the char array.
 
