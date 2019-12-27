@@ -41,6 +41,10 @@
 |[Website Scraper / Analyzer](#website-scraper--analyzer)|||
 ||||
 
+|Incomplete|Completed|Not Going to Complete|
+|:---:|:---:|:---:|
+||:heavy_check_mark:|:x:|
+
 ### 99 Bottles
 - [x] Create a program that prints out every line to the song "99 bottles of beer on the wall."
 - [x] Do not use a list for all of the numbers, and do not manually type them all in. Use a built in function instead.
