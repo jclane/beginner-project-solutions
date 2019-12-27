@@ -7,11 +7,11 @@
 |---|:---:|:---:|
 |[99 Bottles](#99-bottles)|:heavy_check_mark:|:heavy_check_mark:|
 |[Magic 8 Ball](#magic-8-ball)|:heavy_check_mark:|:heavy_check_mark:|
+|[GoogleCase](#GoogleCase)|:heavy_check_mark:||
+|[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:||
 |[Pythagorean Triples Checker](#pythagorean-triples-checker)|:heavy_check_mark:|:heavy_check_mark:|
 |[Rock Paper Scissors Game](#rock-paper-scissors-game)|:heavy_check_mark:|:heavy_check_mark:|
 |[Coin Estimator By Weight](#coin-estimator-by-weight)|:heavy_check_mark:|:heavy_check_mark:|
-|[GoogleCase](#GoogleCase)|:heavy_check_mark:||
-|[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:||
 |[Change Calculator](#change-calculator)|:heavy_check_mark:||
 |[Mean, Median, and Mode](#mean-median-and-mode)|:heavy_check_mark:||
 |[Higher Lower Guessing Game](#higher-lower-guessing-game)|:heavy_check_mark:||
