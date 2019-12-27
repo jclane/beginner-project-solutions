@@ -10,6 +10,7 @@
 |[Pythagorean Triples Checker](#pythagorean-triples-checker)|:heavy_check_mark:|:heavy_check_mark:|
 |[Rock Paper Scissors Game](#rock-paper-scissors-game)|:heavy_check_mark:|:heavy_check_mark:|
 |[Coin Estimator By Weight](#coin-estimator-by-weight)|:heavy_check_mark:|:heavy_check_mark:|
+|[GoogleCase](#GoogleCase)|:heavy_check_mark:||
 |[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:||
 |[Change Calculator](#change-calculator)|:heavy_check_mark:||
 |[Mean, Median, and Mode](#mean-median-and-mode)|:heavy_check_mark:||
@@ -23,21 +24,20 @@
 |[What's My Number?](#whats-my-number)|:heavy_check_mark:||
 |[Factors of a Number](#factors-of-a-number)|:heavy_check_mark:||
 |[Countdown Clock](#countdown-clock)|:heavy_check_mark:||
+|[FLAMES Game](#flames-game)|:x:|:x:|
 |[Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)|:heavy_check_mark:||
 |[A Variation of 21](#a-variation-of-21)|:heavy_check_mark:||
+|[Scarne's Dice](#scarnes-dice)|:heavy_check_mark:||
 |[Compare Recent reddit Karma](#compare-recent-reddit-karma)|:heavy_check_mark:||
 |[Watch for New TIL Facts](#watch-for-new-til-facts)|:heavy_check_mark:||
 |[Random Wikipedia Article](#random-wikipedia-article)|:heavy_check_mark:||
+|[Movie of the day](#movie-of-the-day)|:x:|:x:|
 |[What's the Weather?](#whats-the-weather)|:heavy_check_mark:||
 |[Sierpinski Triangle](#sierpinski-triangle)|:heavy_check_mark:||
 |[Two Numbers](#two-numbers)|:heavy_check_mark:||
 |[Chickens and Rabbits](#chickens-and-rabbits)|:heavy_check_mark:||
-|[FLAMES Game](#flames-game)|:x:|:x:|
 |[Pomodoro Timer](#pomodoro-timer)|:x:|:x:|
-|[Scarne's Dice](#scarnes-dice)|:heavy_check_mark:||
-|[GoogleCase](#GoogleCase)|:heavy_check_mark:||
 |[Chess](#ChessGame)|||
-|[Movie of the day](#movie-of-the-day)|:x:|:x:|
 |[Website Scraper / Analyzer](#website-scraper--analyzer)|||
 ||||
 
