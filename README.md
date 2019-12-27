@@ -1,42 +1,45 @@
 # beginner-project-solutions
 
 ## Project List
-*Projects are somewhat ordered by increasing difficulty.*
-- [x] [99 Bottles](#99-bottles)
-- [x] [Magic 8 Ball](#magic-8-ball)
-- [x] [Pythagorean Triples Checker](#pythagorean-triples-checker)
-- [x] [Rock Paper Scissors Game](#rock-paper-scissors-game)
-- [x] [Coin Estimator By Weight](#coin-estimator-by-weight)
-- [x] [Mad Libs Story Maker](#mad-libs-story-maker)
-- [x] [Change Calculator](#change-calculator)
-- [x] [Mean, Median, and Mode](#mean-median-and-mode)
-- [x] [Higher Lower Guessing Game](#higher-lower-guessing-game)
-- [x] [Multiplication Table](#multiplication-table)
-- [x] [Fibonacci Sequence](#fibonacci-sequence)
-- [x] [Base Jumper](#base-jumper)
-- [x] [Hangman Game](#hangman-game)
-- [x] [Menu Calculator](#menu-calculator)
-- [x] [Dice Rolling Simulator](#dice-rolling-simulator)
-- [x] [Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)
-- [x] [What's My Number?](#whats-my-number)
-- [x] [Factors of a Number](#factors-of-a-number)
-- [x] [Countdown Clock](#countdown-clock)
-- [x] [Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)
-- [x] [A Variation of 21](#a-variation-of-21)
-- [x] [Compare Recent reddit Karma](#compare-recent-reddit-karma)
-- [x] [Watch for New TIL Facts](#watch-for-new-til-facts)
-- [x] [Random Wikipedia Article](#random-wikipedia-article)
-- [x] [What's the Weather?](#whats-the-weather)
-- [x] [Sierpinski Triangle](#sierpinski-triangle)
-- [x] [Two Numbers](#two-numbers)
-- [x] [Chickens and Rabbits](#chickens-and-rabbits)
-- [ ] ~~FLAMES Game~~
-- [ ] ~~Pomodoro Timer~~
-- [x] [Scarne's Dice](#scarnes-dice)
-- [x] [GoogleCase](#GoogleCase)
-- [ ] [Chess](#ChessGame)
-- [ ] ~~Movie of the day~~
-- [ ] [Website Scraper / Analyzer](#website-scraper--analyzer)
+*Project are somewhat ordered by increasing difficulty.*
+
+|Project|Python|Java|
+|---|:---:|:---:|
+|[99 Bottles](#99-bottles)|:heavy_check_mark:|:heavy_check_mark:|
+|[Magic 8 Ball](#magic-8-ball)|:heavy_check_mark:|:heavy_check_mark:|
+|[GoogleCase](#GoogleCase)|:heavy_check_mark:||
+|[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:||
+|[Pythagorean Triples Checker](#pythagorean-triples-checker)|:heavy_check_mark:|:heavy_check_mark:|
+|[Rock Paper Scissors Game](#rock-paper-scissors-game)|:heavy_check_mark:|:heavy_check_mark:|
+|[Coin Estimator By Weight](#coin-estimator-by-weight)|:heavy_check_mark:|:heavy_check_mark:|
+|[Change Calculator](#change-calculator)|:heavy_check_mark:||
+|[Mean, Median, and Mode](#mean-median-and-mode)|:heavy_check_mark:||
+|[Higher Lower Guessing Game](#higher-lower-guessing-game)|:heavy_check_mark:||
+|[Fibonacci Sequence](#fibonacci-sequence)|:heavy_check_mark:||
+|[Base Jumper](#base-jumper)|:heavy_check_mark:||
+|[Hangman Game](#hangman-game)|:heavy_check_mark:||
+|[Menu Calculator](#menu-calculator)|:heavy_check_mark:||
+|[Dice Rolling Simulator](#dice-rolling-simulator)|:heavy_check_mark:||
+|[Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)|:heavy_check_mark:||
+|[What's My Number?](#whats-my-number)|:heavy_check_mark:||
+|[Factors of a Number](#factors-of-a-number)|:heavy_check_mark:||
+|[Countdown Clock](#countdown-clock)|:heavy_check_mark:||
+|[FLAMES Game](#flames-game)|:x:|:x:|
+|[Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)|:heavy_check_mark:||
+|[A Variation of 21](#a-variation-of-21)|:heavy_check_mark:||
+|[Scarne's Dice](#scarnes-dice)|:heavy_check_mark:||
+|[Compare Recent reddit Karma](#compare-recent-reddit-karma)|:heavy_check_mark:||
+|[Watch for New TIL Facts](#watch-for-new-til-facts)|:heavy_check_mark:||
+|[Random Wikipedia Article](#random-wikipedia-article)|:heavy_check_mark:||
+|[Movie of the day](#movie-of-the-day)|:x:|:x:|
+|[What's the Weather?](#whats-the-weather)|:heavy_check_mark:||
+|[Sierpinski Triangle](#sierpinski-triangle)|:heavy_check_mark:||
+|[Two Numbers](#two-numbers)|:heavy_check_mark:||
+|[Chickens and Rabbits](#chickens-and-rabbits)|:heavy_check_mark:||
+|[Pomodoro Timer](#pomodoro-timer)|:x:|:x:|
+|[Chess](#ChessGame)|||
+|[Website Scraper / Analyzer](#website-scraper--analyzer)|||
+||||
 
 ### 99 Bottles
 - [x] Create a program that prints out every line to the song "99 bottles of beer on the wall."
