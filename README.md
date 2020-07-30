@@ -6,6 +6,7 @@
 |Project|Python|Java|C++|
 |---|:---:|:---:|:---:|
 |[99 Bottles](#99-bottles)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Armstrong Number](#Armstrong-Number)|
 |[Magic 8 Ball](#magic-8-ball)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[GoogleCase](#GoogleCase)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:|:heavy_check_mark:|
@@ -19,6 +20,7 @@
 |[Base Jumper](#base-jumper)|:heavy_check_mark:||
 |[Hangman Game](#hangman-game)|:heavy_check_mark:||
 |[Menu Calculator](#menu-calculator)|:heavy_check_mark:||
+|[Seat Reservation](#seat-reservation)|||
 |[Dice Rolling Simulator](#dice-rolling-simulator)|:heavy_check_mark:||
 |[Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)|:heavy_check_mark:||
 |[What's My Number?](#whats-my-number)|:heavy_check_mark:||
@@ -38,7 +40,7 @@
 |[Chickens and Rabbits](#chickens-and-rabbits)|:heavy_check_mark:||
 |[Pomodoro Timer](#pomodoro-timer)|:x:|:x:|
 |[Chess](#ChessGame)|||
-|[Website Scraper / Analyzer](#website-scraper--analyzer)|||
+|[Website Scraper / Analyzer](#website-scraper--analyzer)||||
 ||||
 
 |Incomplete|Completed|Not Going to Complete|
@@ -50,6 +52,13 @@
 - [x] Do not use a list for all of the numbers, and do not manually type them all in. Use a built in function instead.
 - [x] Besides the phrase "take one down," you may not type in any numbers/names of numbers directly into your song lyrics.
 - [x] Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
+
+### Armstrong Number
+- Learn about armstrong numbers [here](https://en.wikipedia.org/wiki/Narcissistic_number).
+- [ ] Define a function that allows the user to check whether a given number is armstrong number or not.
+- Hint: To do this, first determine the number of digits of the given number. Call that n. Then take every digit in the number and raise it to the nth power. Add them, and if your answer is the original number then it is an Armstrong number.
+- Example: Take 1634. Four digits. So, 1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634. So 1634 is an Armstrong number.
+- Tip: All single digit numbers are Armstrong numbers.
 
 ### Magic 8 Ball
 - [x] Simulate a magic 8-ball.
@@ -182,6 +191,17 @@ Imagine you have started up a small restaurant and are trying to make it easier 
   - [x] If you decide to, print out the items and prices every time before the user types in an order.
   - [x] Once the user has entered an order, print out how many of each item have been ordered, as well as the total price.
   - [x] If an item was not ordered at all, then it should not show up.
+
+### Seat Reservation
+If you've ever been in a concert, you are aware that you buy tickets to be able to reserve a seat inside a stadium. The seat you will be on will have a specific number or code that would enable you to know exactly how far or how close you are to the stage. 
+
+Note: if you are kind of uncomfortable with lists, here's a [reference](https://www.w3schools.com/python/python_lists.asp) to get you started. 
+
+- [ ] Create a simple seat reservation program
+- [ ] Create a list that would store dashes '-' as a symbol that the seat is still available to take.
+- [ ] Define a function that would loop over the list and print out the seats horizontally or in a 3 x 3 position. Refer to [this](https://image.shutterstock.com/image-vector/stadium-chairs-vector-icon-arenabench-260nw-1056480272.jpg) image for reference.
+- [ ] Define a second function that would check if the seats are occupied. This should check if the list contains "X" in each element, which is the symbol that we will use if the seat is taken that you will store in a variable. If the variable is equal to 9 (the total number of seats), return True (and break from the loop), and False if not.
+- [ ] Create a loop that would have to (1) ask the user for the number of seat he would want to reserve, (2) print out the chairs, (3) check if all the seats are occupied and (4) ask the user now if he/she wants to reserve again.
 
 ### Dice Rolling Simulator
 By using the random module, Python can do things like pseudo-random number generation.
