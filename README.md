@@ -1,11 +1,11 @@
 # beginner-project-solutions
 
 ## Project List
-*Project are somewhat ordered by increasing difficulty.*
+*Projects are somewhat ordered by increasing difficulty.*
 
 |Project|Python|Java|C++|
 |---|:---:|:---:|:---:|
-|[99 Bottles](#99-bottles)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/ninety_nine_bottles.py)|:heavy_check_mark:|:heavy_check_mark:|
+|[99 Bottles](#99-bottles)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Armstrong Number](#Armstrong-Number)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Magic 8 Ball](#magic-8-ball)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[GoogleCase](#GoogleCase)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
