@@ -5,39 +5,39 @@
 
 |Project|Python|Java|C++|
 |---|:---:|:---:|:---:|
-|[99 Bottles](#99-bottles)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Armstrong Number](#Armstrong-Number)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Magic 8 Ball](#magic-8-ball)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[GoogleCase](#GoogleCase)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Pythagorean Triples Checker](#pythagorean-triples-checker)|:heavy_check_mark:|:heavy_check_mark:|
-|[Rock Paper Scissors Game](#rock-paper-scissors-game)|:heavy_check_mark:|:heavy_check_mark:|
-|[Coin Estimator By Weight](#coin-estimator-by-weight)|:heavy_check_mark:|:heavy_check_mark:|
-|[Change Calculator](#change-calculator)|:heavy_check_mark:||
-|[Mean, Median, and Mode](#mean-median-and-mode)|:heavy_check_mark:||
-|[Higher Lower Guessing Game](#higher-lower-guessing-game)|:heavy_check_mark:||
-|[Fibonacci Sequence](#fibonacci-sequence)|:heavy_check_mark:||
-|[Base Jumper](#base-jumper)|:heavy_check_mark:||
-|[Hangman Game](#hangman-game)|:heavy_check_mark:||
-|[Menu Calculator](#menu-calculator)|:heavy_check_mark:||
+|[99 Bottles](#99-bottles)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/python/ninety_nine_bottles.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/java/ninetyNineBottles.java)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/cpp/NinetyNineBottles.cpp)|
+|[Armstrong Number](#Armstrong-Number)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/python/armstrong_number.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/java/ArmstrongNumber.java)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/cpp/armstrongNumber.cpp)|
+|[Magic 8 Ball](#magic-8-ball)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/magic_eight_ball.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/java/MagicEightBall.java)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/cpp/magicEightBall.cpp)|
+|[GoogleCase](#GoogleCase)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/google_case.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/java/googleCase.java)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/cpp/googleCase.cpp)|
+|[Mad Libs Story Maker](#mad-libs-story-maker)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/mad_libs.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/java/madLibs.java)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/cpp/madLibs.cpp)|
+|[Pythagorean Triples Checker](#pythagorean-triples-checker)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/check_pythagorean_triple.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/java/checkPythagoreanTriple.java)|
+|[Rock Paper Scissors Game](#rock-paper-scissors-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/rock_paper_scissors.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/java/rockPaperScissors.java)|
+|[Coin Estimator By Weight](#coin-estimator-by-weight)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/coin_by_weight.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/add-links-to-solutions/java/CoinByWeight.java)|
+|[Change Calculator](#change-calculator)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/change_calculator.py)||
+|[Mean, Median, and Mode](#mean-median-and-mode)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/mean_median_mode.py)||
+|[Higher Lower Guessing Game](#higher-lower-guessing-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/higher_or_lower.py)||
+|[Fibonacci Sequence](#fibonacci-sequence)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/fibonacci.py)||
+|[Base Jumper](#base-jumper)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/base_jumper.py)||
+|[Hangman Game](#hangman-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/hangman_game.py)||
+|[Menu Calculator](#menu-calculator)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/menu_calculator.py)||
 |[Seat Reservation](#seat-reservation)|||
-|[Dice Rolling Simulator](#dice-rolling-simulator)|:heavy_check_mark:||
-|[Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)|:heavy_check_mark:||
-|[What's My Number?](#whats-my-number)|:heavy_check_mark:||
-|[Factors of a Number](#factors-of-a-number)|:heavy_check_mark:||
-|[Countdown Clock](#countdown-clock)|:heavy_check_mark:||
+|[Dice Rolling Simulator](#dice-rolling-simulator)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/dice_roller.py)||
+|[Count and Fix Green Eggs and Ham](#count-and-fix-green-eggs-and-ham)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/count_fix_greenham.py)||
+|[What's My Number?](#whats-my-number)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/whats_my_number.py)||
+|[Factors of a Number](#factors-of-a-number)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/factors_of_a_number.py)||
+|[Countdown Clock](#countdown-clock)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/countdown_clock.py)||
 |[FLAMES Game](#flames-game)|:x:|:x:|
-|[Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)|:heavy_check_mark:||
-|[A Variation of 21](#a-variation-of-21)|:heavy_check_mark:||
-|[Scarne's Dice](#scarnes-dice)|:heavy_check_mark:||
-|[Compare Recent reddit Karma](#compare-recent-reddit-karma)|:heavy_check_mark:||
-|[Watch for New TIL Facts](#watch-for-new-til-facts)|:heavy_check_mark:||
-|[Random Wikipedia Article](#random-wikipedia-article)|:heavy_check_mark:||
-|[Movie of the day](#movie-of-the-day)|:x:|:x:|
-|[What's the Weather?](#whats-the-weather)|:heavy_check_mark:||
-|[Sierpinski Triangle](#sierpinski-triangle)|:heavy_check_mark:||
-|[Two Numbers](#two-numbers)|:heavy_check_mark:||
-|[Chickens and Rabbits](#chickens-and-rabbits)|:heavy_check_mark:||
+|[Turn Based Pokemon Style Game](#turn-based-pokemon-style-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/turn_based_battle_game.py)||
+|[A Variation of 21](#a-variation-of-21)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/variation_of_21.py)||
+|[Scarne's Dice](#scarnes-dice)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/scarnes_dice.py)||
+|[Compare Recent reddit Karma](#compare-recent-reddit-karma)|[:heavy_check_mark:]()||
+|[Watch for New TIL Facts](#watch-for-new-til-facts)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/til_facts.py)||
+|[Random Wikipedia Article](#random-wikipedia-article)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/random_wikipedia_article.py)||
+|[Movie of the day](#movie-of-the-day)|[:x:](https://github.com/jclane/beginner-project-solutions/blob/master/python/movie_of_the_day.py)|:x:|
+|[What's the Weather?](#whats-the-weather)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/weather.py)||
+|[Sierpinski Triangle](#sierpinski-triangle)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/sierpinkski_triangle.py)||
+|[Two Numbers](#two-numbers)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/two_numbers.py)||
+|[Chickens and Rabbits](#chickens-and-rabbits)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/chickens_rabbits.py)||
 |[Pomodoro Timer](#pomodoro-timer)|:x:|:x:|
 |[Chess](#ChessGame)|||
 |[Website Scraper / Analyzer](#website-scraper--analyzer)||||
