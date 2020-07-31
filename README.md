@@ -5,11 +5,11 @@
 
 |Project|Python|Java|C++|
 |---|:---:|:---:|:---:|
-|[99 Bottles](#99-bottles)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[99 Bottles](#99-bottles)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/ninety_nine_bottles.py)|:heavy_check_mark:|:heavy_check_mark:|
 |[Armstrong Number](#Armstrong-Number)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Magic 8 Ball](#magic-8-ball)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[GoogleCase](#GoogleCase)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:|:heavy_check_mark:|
+|[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Pythagorean Triples Checker](#pythagorean-triples-checker)|:heavy_check_mark:|:heavy_check_mark:|
 |[Rock Paper Scissors Game](#rock-paper-scissors-game)|:heavy_check_mark:|:heavy_check_mark:|
 |[Coin Estimator By Weight](#coin-estimator-by-weight)|:heavy_check_mark:|:heavy_check_mark:|
