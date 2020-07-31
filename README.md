@@ -6,7 +6,7 @@
 |Project|Python|Java|C++|
 |---|:---:|:---:|:---:|
 |[99 Bottles](#99-bottles)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Armstrong Number](#Armstrong-Number)|
+|[Armstrong Number](#Armstrong-Number)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Magic 8 Ball](#magic-8-ball)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[GoogleCase](#GoogleCase)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:|:heavy_check_mark:|
