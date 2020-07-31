@@ -1,7 +1,7 @@
 # beginner-project-solutions
 
 ## Project List
-*Project are somewhat ordered by increasing difficulty.*
+*Projects are somewhat ordered by increasing difficulty.*
 
 |Project|Python|Java|C++|
 |---|:---:|:---:|:---:|
@@ -9,7 +9,7 @@
 |[Armstrong Number](#Armstrong-Number)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Magic 8 Ball](#magic-8-ball)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[GoogleCase](#GoogleCase)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:|:heavy_check_mark:|
+|[Mad Libs Story Maker](#mad-libs-story-maker)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Pythagorean Triples Checker](#pythagorean-triples-checker)|:heavy_check_mark:|:heavy_check_mark:|
 |[Rock Paper Scissors Game](#rock-paper-scissors-game)|:heavy_check_mark:|:heavy_check_mark:|
 |[Coin Estimator By Weight](#coin-estimator-by-weight)|:heavy_check_mark:|:heavy_check_mark:|
