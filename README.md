@@ -15,7 +15,7 @@
 |[Coin Estimator By Weight](#coin-estimator-by-weight)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/coin_by_weight.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/CoinByWeight.java)|
 |[Change Calculator](#change-calculator)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/change_calculator.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/ChangeCalculator.java)|
 |[Mean, Median, and Mode](#mean-median-and-mode)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/mean_median_mode.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/MeanMedianMode.java)|
-|[Higher Lower Guessing Game](#higher-lower-guessing-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/higher_or_lower.py)||
+|[Higher Lower Guessing Game](#higher-lower-guessing-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/higher_or_lower.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/HigherOrLower.java)|
 |[Fibonacci Sequence](#fibonacci-sequence)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/fibonacci.py)||
 |[Base Jumper](#base-jumper)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/base_jumper.py)||
 |[Hangman Game](#hangman-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/hangman_game.py)||
