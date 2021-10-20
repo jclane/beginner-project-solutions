@@ -16,7 +16,7 @@
 |[Change Calculator](#change-calculator)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/change_calculator.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/ChangeCalculator.java)|
 |[Mean, Median, and Mode](#mean-median-and-mode)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/mean_median_mode.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/MeanMedianMode.java)|
 |[Higher Lower Guessing Game](#higher-lower-guessing-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/higher_or_lower.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/HigherOrLower.java)|
-|[Fibonacci Sequence](#fibonacci-sequence)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/fibonacci.py)||
+|[Fibonacci Sequence](#fibonacci-sequence)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/fibonacci.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/Fibonacci.java)|
 |[Base Jumper](#base-jumper)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/base_jumper.py)||
 |[Hangman Game](#hangman-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/hangman_game.py)||
 |[Menu Calculator](#menu-calculator)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/menu_calculator.py)||
