@@ -18,7 +18,7 @@
 |[Higher Lower Guessing Game](#higher-lower-guessing-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/higher_or_lower.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/HigherOrLower.java)|
 |[Fibonacci Sequence](#fibonacci-sequence)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/fibonacci.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/Fibonacci.java)|
 |[Base Jumper](#base-jumper)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/base_jumper.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/BaseJumper.java)|
-|[Hangman Game](#hangman-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/hangman_game.py)||
+|[Hangman Game](#hangman-game)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/hangman_game.py)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/java/Hangman.java)|
 |[Menu Calculator](#menu-calculator)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/menu_calculator.py)||
 |[Seat Reservation](#seat-reservation)|||
 |[Dice Rolling Simulator](#dice-rolling-simulator)|[:heavy_check_mark:](https://github.com/jclane/beginner-project-solutions/blob/master/python/dice_roller.py)||
