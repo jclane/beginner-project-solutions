@@ -381,7 +381,7 @@ We count 35 heads and 94 legs among the chickens and rabbits in a farm.
 How many rabbits and how many chickens do we have?
 
 Hint:
-Use for loop to iterate all possible solutions.
+Use for loop to iterate all possible solutions. Learn about for loop [here](https://www.scaler.com/topics/python/for-loop-in-python/).
 
 
 ### FLAMES Game
